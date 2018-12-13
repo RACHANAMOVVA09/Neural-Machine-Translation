@@ -1,0 +1,38 @@
+{
+  "environment": "web",
+  "source": "1mok2gDOsX6zy_9fMrVvO9WjZ0JP_6xRJcRn4F0sLqMs",
+  "format": "html",
+  "prefix": "../../",
+  "mainga": "UA-49880327-14",
+  "updated": "2018-12-13T21:17:26Z",
+  "id": "English- French",
+  "duration": 0,
+  "title": "Neural Machine Translation",
+  "author": "Manasa B S, Rachna Movva",
+  "summary": "In this project, you'll build a Machine neural translator, which converts English to French.",
+  "theme": "web",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://github.com/Manasa9391/Neural-Machine-Translation/issues",
+  "url": "English- French"
+}
